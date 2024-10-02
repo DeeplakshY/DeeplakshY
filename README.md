@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/deeplakshyadav" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/deeplakshyadav?logo=twitter&style=for-the-badge" alt="https://twitter.com/deeplakshyadav" /></a> </p>
 
-- 🔭 I’m currently working on **AI/ML Projects**
+- 🔭 I’m currently working on **Data Science**
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Data Driven Projects**
 
 - 🤝 I’m looking for help with **AI/ML**
 
 - 📫 How to reach me **deeplaksh2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IUKzFnWUWIUXFfvBGTpvHubK82W9s5hr/view?usp=drive_link](https://drive.google.com/file/d/1IUKzFnWUWIUXFfvBGTpvHubK82W9s5hr/view?usp=drive_link)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I am witty with it iyk!**
 
